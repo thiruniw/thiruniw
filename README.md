@@ -11,7 +11,7 @@
 - 🎓 I’m a **Data Science Undergraduate at SLIIT**
 - 🤖 Passionate about **AI/ML, Data Analysis and Visualizations & Agentic AI Systems**
 - 💻 Skilled in **Python, Java**
-- 🧠 Currently Actively developing my **AI/ML skills through continuous learning and hands-on projects** as I grow my expertise in the field
+- 🧠 Currently developing my **AI/ML skills through continuous learning and hands-on projects** as I grow my expertise in the field
 - 🚀 Love building intelligent, impactful, and user-friendly applications
 
 ---
@@ -51,7 +51,6 @@
 <img src="https://img.icons8.com/color/48/pandas.png"/>
 <img src="https://img.icons8.com/color/48/numpy.png"/>
 <img src="https://img.icons8.com/color/48/tensorflow.png"/>
-<img src="https://img.icons8.com/color/48/keras.png"/>
 <img src="https://img.icons8.com/color/48/computer-support.png" title="LLM Integrations & Agentic AI"/>
 </p>
 
@@ -60,12 +59,10 @@
 <img src="https://img.icons8.com/color/48/react-native.png"/>
 <img src="https://img.icons8.com/color/48/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/javascript.png"/>
-<img src="https://img.icons8.com/color/48/fastapi.png"/>
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-<img src="https://img.icons8.com/color/48/jupyter.png"/>
 <img src="https://img.icons8.com/fluency/48/rstudio.png"/>
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
