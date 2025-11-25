@@ -11,7 +11,7 @@
 - 🎓 I’m a **Data Science Undergraduate at SLIIT**
 - 🤖 Passionate about **AI/ML, Data Analysis and Visualizations & Agentic AI Systems**
 - 💻 Skilled in **Python, Java**
-- 🧠 Currently improving my skills in **Data Science tools & ML frameworks**
+- 🧠 Currently Actively developing my **AI/ML skills through continuous learning and hands-on projects** as I grow my expertise in the field
 - 🚀 Love building intelligent, impactful, and user-friendly applications
 
 ---
