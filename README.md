@@ -47,7 +47,7 @@
 
 ### 🤖 AI / ML & Data Science
 <p>
-<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
+<!-- Removed the artificial-intelligence icon -->
 <img src="https://img.icons8.com/color/48/pandas.png"/>
 <img src="https://img.icons8.com/color/48/numpy.png"/>
 <img src="https://img.icons8.com/color/48/tensorflow.png"/>
@@ -65,6 +65,7 @@
 <p>
 <img src="https://img.icons8.com/fluency/48/rstudio.png"/>
 <img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/eclipse.png"/>
 <img src="https://img.icons8.com/color/48/git.png"/>
@@ -88,7 +89,8 @@
 <p align="center">
   <strong>Primary Language:</strong> Python 🐍
 </p>
+
 ---
 
-⭐ **Thank you for visiting my profile!**  
+**Thank you for visiting my profile! ⭐**  
 Feel free to explore my projects 🚀
