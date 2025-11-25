@@ -48,7 +48,6 @@
 ### 🤖 AI / ML & Data Science
 <p>
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
-<img src="https://img.icons8.com/color/48/scikit-learn.png"/>
 <img src="https://img.icons8.com/color/48/pandas.png"/>
 <img src="https://img.icons8.com/color/48/numpy.png"/>
 <img src="https://img.icons8.com/color/48/tensorflow.png"/>
@@ -89,7 +88,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiruniw&layout=compact&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <strong>Primary Language:</strong> Python 🐍
+</p>
 ---
 
 ⭐ **Thank you for visiting my profile!**  
